@@ -49,6 +49,7 @@ I am an intermediate-level **Machine Learning Engineer** with experience working
 - **Prompt Engineering** – Coursera (DeepLearning.AI)
 - **Python Programming Bootcame** - Udemy
 - **Machine Learning By IBM** - Coursera(IBM)
+- **Enrolled In Post Executive Post Graduate Certification in AI & DS (IIT ROORKEE)** - Intellipaat
 
 ### **Ongoing Learning:**
 - **Reinforcement Learning**: Working on building AI agents and learning about policy optimization.
