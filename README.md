@@ -96,7 +96,7 @@ Here are some of the machine learning and AI projects I have worked on:
 
 ## 📫 How to Reach Me
 
-- [LinkedIn Profile]([https://www.linkedin.com/in/priyadharshini](https://www.linkedin.com/in/priyadharshinijayakumar/))
+- [LinkedIn Profile](https://www.linkedin.com/in/priyadharshinijayakumar/)
 - [Email](priycs105@rmkcet.ac.in)
 
 Feel free to reach out if you're interested in collaborating on any exciting AI/ML projects, or if you'd like to connect with me for professional opportunities!
